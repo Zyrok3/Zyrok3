@@ -14,7 +14,7 @@ I have a strong interest in artificial intelligence, neural networks, and networ
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **[Personal Portfolio Website](https://github.com/your-username/your-portfolio)**  
+1. **[Personal Portfolio Website](https://github.com/Zyrok3/MyPortfolio)**  
    A personal portfolio website showcasing my skills, projects, and professional background. Built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ## Website Portfolio
