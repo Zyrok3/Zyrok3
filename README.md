@@ -14,14 +14,8 @@ I have a strong interest in artificial intelligence, neural networks, and networ
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **[Project Title 1](link_to_your_project_1)**  
-   A brief description of what this project does and the technologies used.
-
-2. **[Project Title 2](link_to_your_project_2)**  
-   A brief description of what this project does and the technologies used.
-
-3. **[Project Title 3](link_to_your_project_3)**  
-   A brief description of what this project does and the technologies used.
+1. **[Personal Portfolio Website](https://github.com/your-username/your-portfolio)**  
+   A personal portfolio website showcasing my skills, projects, and professional background. Built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ## Website Portfolio
 Check out my website portfolio to see more of my work and projects: [felixreder.me](https://felixreder.me/)
