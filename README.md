@@ -1,8 +1,8 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I am an IT student with a passion for programming and technology. Currently, I am honing my skills in Java, Python, and web development (HTML, CSS, JavaScript). 
-I have a strong interest in artificial intelligence, neural networks, and network security. I thrive on challenges and enjoy solving complex problems through coding challenges on platforms like LeetCode and participating in hackathons.
+I am a student at a Higher Technical Institute (HTL) with a specialization in Information Technology. My education provides a strong foundation in programming and technology, and I am currently honing my skills in Java, Python, and web development (HTML, CSS, JavaScript).
+I have a strong interest in artificial intelligence, neural networks, and network security. I thrive on challenges and enjoy solving complex problems, frequently participating in coding exercises on platforms like LeetCode and in hackathons.
 
 ## Skills
 - **Programming Languages:** Java, Python, HTML, CSS, JavaScript
