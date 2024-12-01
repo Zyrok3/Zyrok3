@@ -1,15 +1,18 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I am a student at a Higher Technical Institute (HTL) with a specialization in Information Technology. My education provides a strong foundation in programming and technology, and I am currently honing my skills in Java, Python, and web development (HTML, CSS, JavaScript).
+I am a student at a Higher Technical Institute (HTL) with a specialization in Information Technology
 I have a strong interest in artificial intelligence, neural networks, and network security. I thrive on challenges and enjoy solving complex problems, frequently participating in coding exercises on platforms like LeetCode and in hackathons.
 
 ## Skills
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
-- **Networking:** Network Technology, Cisco Packet Tracer, GNS3
-- **Software:** Microsoft Office, Photoshop
-- **Hardware:** Computer Hardware Knowledge, Basic Windows Skills
-- **Electrical Engineering:** Fundamentals of Electrical Engineering
+- **Programming Languages:** Java, Python, PHP, HTML, CSS, JavaScript, TypeScript  
+- **Frontend Development:** React, Next.js, TailwindCSS, Bootstrap  
+- **Scripting & Tools:** Bash, Git, GitHub, Vercel  
+- **Mobile Development:** Flutter, React Native  
+- **Backend & Databases:** MariaDB, Oracle  
+- **Networking & Systems:** Cisco Packet Tracer, GNS3, Windows, Linux  
+- **Project Management:** Jira, Asana, Confluence, Agile (Scrum, Kanban)  
+- **General Tools:** Microsoft Office 365, Notion 
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -22,9 +25,3 @@ Check out my website portfolio to see more of my work and projects: [felixreder.
 
 ## Certifications
 - **edlris – European Driving License for Robots and Intelligent Systems - AI Basic**
-
-## Contact Me
-Feel free to reach out if you want to collaborate on a project, discuss ideas, or learn more about my work!
-- **LinkedIn:** ([linkedin.com/in/felix-reder/](https://www.linkedin.com/in/felix-reder/))
-
-Thank you for visiting my profile!
